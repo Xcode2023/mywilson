@@ -42,5 +42,5 @@ export default defineConfig({
       },
     },
   },
-  assetsInclude: ["**/*.spline","**/*.gif"],
+  assetsInclude: ["**/*.spline","**/*.gif","**/*.hdr","**/*.glb"],
 });
